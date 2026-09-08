@@ -4,6 +4,10 @@
   Yazılım geliştirici &nbsp;•&nbsp; Optimizasyon, yapay zekâ destekli sistemler ve uçtan uca ürün geliştirme
 </p>
 
+<p align="center">
+  <a href="https://gorkemesendeniz.me">gorkemesendeniz.me</a>
+</p>
+
 ---
 
 ### 🧭 Hakkımda
@@ -16,12 +20,21 @@ Bir sistemi uçtan uca kurmayı seviyorum: veri modelinden optimizasyon motoruna
 
 ### 🚀 Öne Çıkan Projeler
 
+**IYONTREE — EV Route Optimizer**
+Elektrikli araçlar için çok kriterli optimizasyona dayalı rota ve şarj planlama sistemi. Fizik tabanlı tüketim modeli, araç bazlı SoC şarj eğrileri üzerinde trapez integrasyon ve Bellman DP optimizatörü. Akademik konferansta sunuldu.
+
+| Bileşen | Açıklama | Stack |
+| :--- | :--- | :--- |
+| [ev-route-optimizer-api](https://github.com/Gorkemesndnz/ev-route-optimizer-api) | Optimizasyon motoru — tüketim modeli ve rota çözücü | `Python` `FastAPI` |
+| [ev-route-optimizer-web](https://github.com/Gorkemesndnz/ev-route-optimizer-web) | Harita üzerinde rota, şarj durağı ve SoC görselleştirmesi | `React 19` `Vite` |
+
+**Diğer projeler**
+
 | Proje | Açıklama | Stack |
 | :--- | :--- | :--- |
-| **IYONTREE — EV Route Optimizer** | Elektrikli araçlar için çok kriterli optimizasyona dayalı rota ve şarj planlama sistemi. Fizik tabanlı tüketim modeli, araç bazlı SoC şarj eğrileri üzerinde trapez integrasyon ve Bellman DP optimizatörü. Akademik konferansta sunuldu. | `React` `.NET 8` `FastAPI` |
-| **[Compileme](https://github.com/Gorkemesndnz/Compileme)** | Günlük rutinleri, görevleri, alışkanlıkları ve öğrenme akışlarını tek bir platformda toplayan kişisel üretkenlik sistemi. | `TypeScript` `Next.js` |
-| **[Anemia Diagnosis Regression](https://github.com/Gorkemesndnz/Anemia_Diagnosis_Regression)** | Kan tahlili verisinden hemoglobin değerini tahmin eden regresyon tabanlı tanı destek sistemi. | `Python` `scikit-learn` |
-| **[Portfolyo](https://github.com/Gorkemesndnz/Portfolyo)** | Windows XP temalı, nostaljik arayüzlü kişisel portföy sitesi. | `TypeScript` `React` |
+| [Compileme](https://github.com/Gorkemesndnz/Compileme) | Günlük rutinleri, görevleri, alışkanlıkları ve öğrenme akışlarını tek bir platformda toplayan kişisel üretkenlik sistemi. | `TypeScript` `Spring Boot` |
+| [Anemia Diagnosis Regression](https://github.com/Gorkemesndnz/Anemia_Diagnosis_Regression) | Kan tahlili verisinden hemoglobin değerini tahmin eden regresyon tabanlı tanı destek sistemi. | `Python` `scikit-learn` |
+| [Portfolyo](https://github.com/Gorkemesndnz/Portfolyo) | Windows XP temalı, nostaljik arayüzlü kişisel portföy sitesi. | `TypeScript` `React` |
 
 ### 🛠 Teknolojiler
 
@@ -48,10 +61,3 @@ Bir sistemi uçtan uca kurmayı seviyorum: veri modelinden optimizasyon motoruna
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### 📊 İstatistikler
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gorkemesndnz&show_icons=true&hide_border=true&theme=github_dark&locale=tr" alt="GitHub istatistikleri" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gorkemesndnz&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="En çok kullanılan diller" />
-</p>
