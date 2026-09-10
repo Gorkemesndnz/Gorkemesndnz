@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Görkem 👋</h1>
 
 <p align="center">
-  Yazılım geliştirici &nbsp;•&nbsp; Optimizasyon, yapay zekâ destekli sistemler ve uçtan uca ürün geliştirme
+  JAVA/Spring Boot Developer
 </p>
 
 <p align="center">
